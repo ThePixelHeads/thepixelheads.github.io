@@ -18,18 +18,32 @@
 </tbody>
 </table>
 
+<br>
 
 #### Christmas
 
-| Title | Image |
-|---|---|
-| [C9 Diffuser](https://www.thingiverse.com/thing:3331268) | <img src="/images/c9_bulb.jpg" alt="C9 Diffuser" width="300"/> |
-| [Snowflake](https://www.thingiverse.com/thing:1966885) | <img src="/images/snowflake.jpg" alt="Snowflake" width="300"/> |
-|  |  |
+<table>
+<tbody>
+  <tr>
+    <td><a href="https://www.thingiverse.com/thing:3331268">C9 Diffuser</a></td>
+    <td><img src="/images/c9_bulb.jpg" alt="C9 Diffuser" width="300"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.thingiverse.com/thing:1966885">Snowflake</a></td>
+    <td><img src="/images/snowflake.jpg" alt="Snowflake" width="300"/></td>
+  </tr>
+</tbody>
+</table>
+
+<br>
 
 #### Halloween
 
-| Title | Image |
-|---|---|
-| [Bat Prop](https://www.thingiverse.com/thing:4936060) | <img src="/images/Bat.jpg" alt="Bat Prop" width="300"/> |
-|  |  |
+<table>
+<tbody>
+  <tr>
+    <td><a href="https://www.thingiverse.com/thing:4936060">Bat Prop</a></td>
+    <td><img src="/images/Bat.jpg" alt="Bat Prop" width="300"/></td>
+  </tr>
+</tbody>
+</table>
