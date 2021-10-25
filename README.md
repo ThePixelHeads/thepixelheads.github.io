@@ -5,11 +5,19 @@
 
 #### General
 
-| Title | Image |
-|---|---|
-| [Pixel Spotlight](https://www.thingiverse.com/thing:3927430) | <img src="/images/pixel_spotlight.png" alt="Pixel Spotlight" width="300"/> |
-| [Pixel Matrix](https://www.thingiverse.com/thing:4058460) | <img src="/images/pixel_matrix.png" alt="Pixel Matrix" width="300"/> |
-|  |  |
+<table>
+<tbody>
+  <tr>
+    <td><a href="https://www.thingiverse.com/thing:3927430">Pixel Spotlight</a></td>
+    <td><img src="/images/pixel_spotlight.png" alt="Pixel Spotlight" width="300"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.thingiverse.com/thing:4058460">Pixel Matrix</a></td>
+    <td><img src="/images/pixel_matrix.png" alt="Pixel Matrix" width="300"/></td>
+  </tr>
+</tbody>
+</table>
+
 
 #### Christmas
 
