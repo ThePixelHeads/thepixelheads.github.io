@@ -6,6 +6,6 @@
 
 | Title | Image |
 |---|---|
-| [Bat Prop](https://www.thingiverse.com/thing:4936060) | <img src="/Bat.jpg" alt="Bat Prop" width="300"/>) |
+| [Bat Prop](https://www.thingiverse.com/thing:4936060) | <img src="/images/Bat.jpg" alt="Bat Prop" width="300"/>) |
 |  |  |
 |  |  |
