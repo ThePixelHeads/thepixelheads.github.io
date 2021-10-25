@@ -5,7 +5,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### 3D Prints
 
 
-[Bat Prop](https://www.thingiverse.com/thing:4936060)
+[Bat Prop](https://www.thingiverse.com/thing:4936060)  <br>
 ![Image](/Bat.jpg)
 
 
