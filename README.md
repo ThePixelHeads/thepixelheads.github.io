@@ -4,10 +4,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### 3D Prints
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-
-
-[Bat Prop](https://www.thingiverse.com/thing:4936060) and ![Image](src)
+[Bat Prop](https://www.thingiverse.com/thing:4936060)
+![Image](/Bat.jpg)
 
 
