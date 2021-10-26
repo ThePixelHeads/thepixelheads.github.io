@@ -196,7 +196,7 @@
   </tr>
   <tr>
     <td><a href="https://www.thingiverse.com/thing:4973436">Baby Face</a></td>
-    <td><img src="/images/baby_face.png" alt="Baby Face" width="300"/></td>
+    <td><img src="/images/baby_face.jpg" alt="Baby Face" width="300"/></td>
   </tr>
 </tbody>
 </table>
