@@ -63,7 +63,7 @@
   </tr>  
   <tr>
     <td><a href="https://cults3d.com/en/3d-model/home/ws2811-pixel-talking-pumpkin">Singing Pumpkin</a></td>
-    <td><img src="/images/singing_pumpkin_v2.png" alt="Singing Pumpkin" width="300"/></td>
+    <td><img src="/images/singing_pumpkin.png" alt="Singing Pumpkin" width="300"/></td>
   </tr>  
   <tr>
     <td><a href="https://cults3d.com/en/3d-model/home/ws2811-spider">Spider</a></td>
