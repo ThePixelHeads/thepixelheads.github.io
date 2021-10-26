@@ -1,7 +1,7 @@
-## Welcome to the PixelHeads!
+## PixelHeads 3D Print Collection
 
 
-### A collection of 3D Prints useful for DIY LED Lighting
+### A collection of 3D prints useful for DIY LED Lighting
 
 #### General
 
