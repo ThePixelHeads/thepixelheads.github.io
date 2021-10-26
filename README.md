@@ -54,7 +54,7 @@
   </tr>
   <tr>
     <td><a href="https://www.thingiverse.com/thing:4781636">Singing Tree</a></td>
-    <td><img src="/images/singing_tree.png" alt="25 Pixel Star" width="300"/></td>
+    <td><img src="/images/singing_tree.jpg" alt="25 Pixel Star" width="300"/></td>
   </tr>
   <tr>
     <td><a href="https://www.thingiverse.com/thing:3964340">Home Depot Jumbo Bulb Adapter</a></td>
@@ -95,7 +95,7 @@
 <tbody>
   <tr>
     <td><a href="https://www.thingiverse.com/thing:4936060">Bat Prop</a></td>
-    <td><img src="/images/bat.jpg" alt="Bat Prop" width="300"/></td>
+    <td><img src="/images/Bat.jpg" alt="Bat Prop" width="300"/></td>
   </tr>
   <tr>
     <td><a href="https://www.thingiverse.com/thing:4924358">Pumpkin Prop</a></td>
