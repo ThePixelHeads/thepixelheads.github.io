@@ -48,6 +48,42 @@
     <td><a href="https://www.thingiverse.com/thing:3406047">Candy Cane</a></td>
     <td><img src="/images/candycane.jpg" alt="Candy Cane" width="300"/></td>
   </tr>
+  <tr>
+    <td><a href="https://www.thingiverse.com/thing:4377633">25 Pixel Star</a></td>
+    <td><img src="/images/25_pixel_star.png" alt="25 Pixel Star" width="300"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.thingiverse.com/thing:4781636">Singing Tree</a></td>
+    <td><img src="/images/singing_tree.png" alt="25 Pixel Star" width="300"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.thingiverse.com/thing:3964340">Home Depot Jumbo Bulb Adapter</a></td>
+    <td><img src="/images/home_depot_bulb_adapter.jpg" alt="Home Depot Jumbo Bulb Adapter" width="300"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://cults3d.com/en/3d-model/home/ws2811-drum">Drum</a></td>
+    <td><img src="/images/drum.jpg" alt="Drum" width="300"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://cults3d.com/en/3d-model/home/ws2811-trumpet">Trumpet</a></td>
+    <td><img src="/images/trumpet.jpg" alt="Trumpet" width="300"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://cults3d.com/en/3d-model/home/ws2811-christmas-holly">Holly</a></td>
+    <td><img src="/images/holly.png" alt="Holly" width="300"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://cults3d.com/en/3d-model/home/ws2811-christmas-stocking">Stocking</a></td>
+    <td><img src="/images/stocking.png" alt="Stocking" width="300"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://cults3d.com/en/3d-model/home/ws2811-pixel-talking-bulb">Singing Bulb</a></td>
+    <td><img src="/images/singing_bulb.png" alt="Singing Bulb" width="300"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.thingiverse.com/thing:2858185">50 Pixel Snow Flake</a></td>
+    <td><img src="/images/50_pixel_snowflake.jpg" alt="50 Pixel Snow Flake" width="300"/></td>
+  </tr>
 </tbody>
 </table>
 
@@ -59,7 +95,7 @@
 <tbody>
   <tr>
     <td><a href="https://www.thingiverse.com/thing:4936060">Bat Prop</a></td>
-    <td><img src="/images/Bat.jpg" alt="Bat Prop" width="300"/></td>
+    <td><img src="/images/bat.jpg" alt="Bat Prop" width="300"/></td>
   </tr>
   <tr>
     <td><a href="https://www.thingiverse.com/thing:4924358">Pumpkin Prop</a></td>
@@ -89,5 +125,22 @@
     <td><a href="https://cults3d.com/en/3d-model/home/ws2811-pixel-tombstone-bjhiltbrand">Double Line Tombstone</a></td>
     <td><img src="/images/double_line_tombstone.png" alt="Double Line Tombstone" width="300"/></td>
   </tr> 
+  <tr>
+    <td><a href="https://cults3d.com/en/3d-model/art/32-spider-web">Spider Web</a></td>
+    <td><img src="/images/spider_web.jpg" alt="Spider Web" width="300"/></td>
+  </tr> 
+</tbody>
+</table>
+
+<br>
+
+#### Other Holidays
+
+<table>
+<tbody>
+  <tr>
+    <td><a href="https://cults3d.com/en/3d-model/home/ws2811-easter-egg">Easter Egg</a></td>
+    <td><img src="/images/easter_egg.png" alt="Easter Egg" width="300"/></td>
+  </tr>
 </tbody>
 </table>
