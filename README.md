@@ -27,6 +27,46 @@
     <td><a href="https://www.thingiverse.com/thing:3010759">PEX Arch Base</a></td>
     <td><img src="/images/pex_arch_base.jpg" alt="PEX Arch Base" width="300"/></td>
   </tr>
+  <tr>
+    <td><a href="https://www.thingiverse.com/thing:4927519">1/2" PVC Jig</a></td>
+    <td><img src="/images/1_2_pvc_jig.png" alt="1/2 PVC Jig" width="300"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.thingiverse.com/thing:4927521">3/4" PVC Jig</a></td>
+    <td><img src="/images/3_4_pvc_jig.png" alt="3/4 PVC Jig" width="300"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.thingiverse.com/thing:4085463">50 Pixel Spinner</a></td>
+    <td><img src="/images/50_pixel_spinner.jpg" alt="50 Pixel Spinner" width="300"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.thingiverse.com/thing:4115004">100 Pixel Spinner</a></td>
+    <td><img src="/images/100_pixel_spinner.jpg" alt="100 Pixel Spinner" width="300"/></td>
+  </tr>
+  <tr>
+    <td><a href="http://www.thingiverse.com/thing:1826293">1/2" PVC Coro Clip</a></td>
+    <td><img src="/images/1_2_pvc_coro_clip.jpg" alt="1/2 PVC Coro Clip" width="300"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.thingiverse.com/thing:4153725">Diguno Case</a></td>
+    <td><img src="/images/dig_uno_case.jpg" alt="Diguno Case" width="300"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.thingiverse.com/thing:4766004">Diguno Case - Pjotr Remix</a></td>
+    <td><img src="/images/dig_uno_case_pjotr.jpg" alt="Diguno Case - Pjotr Remix" width="300"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.thingiverse.com/thing:4544445">J-Channel Drill Guide</a></td>
+    <td><img src="/images/j_channel_drill_guide.jpg" alt="J-Channel Drill Guide" width="300"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.thingiverse.com/thing:3849793">Pixel Pusher</a></td>
+    <td><img src="/images/pixer_pusher.png" alt="Pixel Pusher" width="300"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.thingiverse.com/thing:3836503">Pigtail Caps and Plugs</a></td>
+    <td><img src="/images/pigtail_ends.jpg" alt="Pigtail Caps and Plugs" width="300"/></td>
+  </tr>
 </tbody>
 </table>
 
