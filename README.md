@@ -15,6 +15,18 @@
     <td><a href="https://www.thingiverse.com/thing:4058460">Pixel Matrix</a></td>
     <td><img src="/images/pixel_matrix.png" alt="Pixel Matrix" width="300"/></td>
   </tr>
+  <tr>
+    <td><a href="https://www.thingiverse.com/thing:4630396">Hampton Bay Pathway Light</a></td>
+    <td><img src="/images/hampton_bay_pathway_light.jpg" alt="Hampton Bay Pathway Light" width="300"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.thingiverse.com/thing:4725615">Diffused Pixel Stick</a></td>
+    <td><img src="/images/diffused_pixel_stick.jpg" alt="Diffused Pixel Stick" width="300"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.thingiverse.com/thing:3010759">PEX Arch Base</a></td>
+    <td><img src="/images/pex_arch_base.jpg" alt="PEX Arch Base" width="300"/></td>
+  </tr>
 </tbody>
 </table>
 
