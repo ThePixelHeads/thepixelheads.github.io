@@ -67,6 +67,10 @@
     <td><a href="https://www.thingiverse.com/thing:3836503">Pigtail Caps and Plugs</a></td>
     <td><img src="/images/pigtail_ends.jpg" alt="Pigtail Caps and Plugs" width="300"/></td>
   </tr>
+  <tr>
+    <td><a href="https://www.thingiverse.com/thing:4576410">Meanwell LRS35 Case</a></td>
+    <td><img src="/images/meanwell_lrs35_case.jpg" alt="Meanwell LRS35 Case" width="300"/></td>
+  </tr>
 </tbody>
 </table>
 
@@ -173,6 +177,10 @@
     <td><a href="https://www.thingiverse.com/thing:2395716">Gothic Lantern</a></td>
     <td><img src="/images/gothic_lantern.jpg" alt="Gothic Lantern" width="300"/></td>
   </tr> 
+  <tr>
+    <td><a href="https://www.thingiverse.com/thing:4936063">Window Spiderweb</a></td>
+    <td><img src="/images/window_spiderweb.jpg" alt="Window Spiderweb" width="300"/></td>
+  </tr> 
 </tbody>
 </table>
 
@@ -185,6 +193,10 @@
   <tr>
     <td><a href="https://cults3d.com/en/3d-model/home/ws2811-easter-egg">Easter Egg</a></td>
     <td><img src="/images/easter_egg.png" alt="Easter Egg" width="300"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.thingiverse.com/thing:4973436">Baby Face</a></td>
+    <td><img src="/images/baby_face.png" alt="Baby Face" width="300"/></td>
   </tr>
 </tbody>
 </table>
