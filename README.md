@@ -37,11 +37,11 @@
   </tr>
   <tr>
     <td><a href="https://www.thingiverse.com/thing:4085463">50 Pixel Spinner</a></td>
-    <td><img src="/images/50_pixel_spinner.jpg" alt="50 Pixel Spinner" width="300"/></td>
+    <td><img src="/images/50_pixel_spinner.JPG" alt="50 Pixel Spinner" width="300"/></td>
   </tr>
   <tr>
     <td><a href="https://www.thingiverse.com/thing:4115004">100 Pixel Spinner</a></td>
-    <td><img src="/images/100_pixel_spinner.jpg" alt="100 Pixel Spinner" width="300"/></td>
+    <td><img src="/images/100_pixel_spinner.JPG" alt="100 Pixel Spinner" width="300"/></td>
   </tr>
   <tr>
     <td><a href="http://www.thingiverse.com/thing:1826293">1/2" PVC Coro Clip</a></td>
@@ -57,11 +57,11 @@
   </tr>
   <tr>
     <td><a href="https://www.thingiverse.com/thing:4544445">J-Channel Drill Guide</a></td>
-    <td><img src="/images/j_channel_drill_guide.jpg" alt="J-Channel Drill Guide" width="300"/></td>
+    <td><img src="/images/j_channel_drill_guide.JPG" alt="J-Channel Drill Guide" width="300"/></td>
   </tr>
   <tr>
     <td><a href="https://www.thingiverse.com/thing:3849793">Pixel Pusher</a></td>
-    <td><img src="/images/pixer_pusher.png" alt="Pixel Pusher" width="300"/></td>
+    <td><img src="/images/pixel_pusher.jpg" alt="Pixel Pusher" width="300"/></td>
   </tr>
   <tr>
     <td><a href="https://www.thingiverse.com/thing:3836503">Pigtail Caps and Plugs</a></td>
