@@ -32,6 +32,10 @@
     <td><a href="https://www.thingiverse.com/thing:1966885">Snowflake</a></td>
     <td><img src="/images/snowflake.jpg" alt="Snowflake" width="300"/></td>
   </tr>
+  <tr>
+    <td><a href="https://www.thingiverse.com/thing:3406047">CandyCane</a></td>
+    <td><img src="/images/candycane.jpg" alt="Snowflake" width="300"/></td>
+  </tr>
 </tbody>
 </table>
 
