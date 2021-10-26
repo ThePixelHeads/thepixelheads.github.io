@@ -129,6 +129,10 @@
     <td><a href="https://cults3d.com/en/3d-model/art/32-spider-web">Spider Web</a></td>
     <td><img src="/images/spider_web.jpg" alt="Spider Web" width="300"/></td>
   </tr> 
+  <tr>
+    <td><a href="https://www.thingiverse.com/thing:2395716">Gothic Lantern</a></td>
+    <td><img src="/images/gothic_lantern.jpg" alt="Gothic Lantern" width="300"/></td>
+  </tr> 
 </tbody>
 </table>
 
