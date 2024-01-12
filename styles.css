@@ -201,6 +201,30 @@ a.button span{
     height:23px;
     padding-left:50px
 }
+.css-button {
+	color: #141414; 
+	font-size: 21px;
+	border-radius: 7px;
+	border: solid 0px #3866a3;
+	padding: 15px 7px;
+	text-shadow: 1px 1px 0px #bdbebf;
+	text-decoration: none;
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	font-weight: bold;
+	background: linear-gradient(155deg, #ff009d 10%, #0084ff 100%);
+	display: inline-block;
+	vertical-align: middle;
+}
+.css-button:hover {
+	background: linear-gradient(155deg, #0084ff 10%, #ff009d 100%);
+}
+.css-button-text {
+	position: relative;
+	display: inline-block;
+
+}
 #download-zip span{
     background:transparent url(../images/zip-icon.png) 12px 50% no-repeat
 }
@@ -272,13 +296,15 @@ form{
     background:#f2f2f2
 }
 h1{
-    font-size:32px
+    font-size:32px;
+    text-align: center;
 }
 h2{
     margin-bottom:8px;
-    font-size:22px;
+    font-size:28px;
     font-weight:bold;
     color:#303030;
+    text-align: center;
 }
 h3{
     margin-bottom:8px;
