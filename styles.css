@@ -140,12 +140,20 @@ header h2{
     color:#aaa;
     letter-spacing:-1px
 }
+.img-head { 
+  max-width: 10% !important;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 #container{
     min-height:595px;
     background:transparent url(../images/highlight-bg.jpg) 50% 0 no-repeat
 }
 .inner{
-    width:620px;
+    width:730px;
     margin:0 auto
 }
 #container .inner img{
@@ -223,6 +231,31 @@ a.button span{
 .css-button-text {
 	position: relative;
 	display: inline-block;
+
+}
+
+.css-subbutton {
+    color: #141414; 
+    font-size: 21px;
+    border-radius: 7px;
+    border: solid 0px #3866a3;
+    padding: 15px 7px;
+    text-shadow: 1px 1px 0px #bdbebf;
+    text-decoration: none;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+    font-weight: bold;
+    background: linear-gradient(155deg, #0084ff 10%, #ff009d 100%);
+    display: inline-block;
+    vertical-align: middle;
+}
+.css-subbutton:hover {
+    background: linear-gradient(155deg, #ff009d 10%, #0084ff 100%);
+}
+.css-subbutton {
+    position: relative;
+    display: inline-block;
 
 }
 #download-zip span{
@@ -316,7 +349,11 @@ h3{
 h4{
     font-size:16px;
     font-weight:bold;
-    color:#303030
+    color:#303030;
+    text-align: center;
+    margin-bottom:8px;
+
+
 }
 h5{
     font-size:1em;
