@@ -6,22 +6,128 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <link rel="stylesheet" href="styles.css">
- 
-  <!-- Begin Jekyll SEO tag v2.7.1 -->
-  <title>PixelHeads | thepixelheads.github.io</title>
-  <meta name="generator" content="Jekyll v3.9.0" />
-  <meta property="og:title" content="PixelHeads" />
-  <meta property="og:locale" content="en_US" />
-  <link rel="canonical" href="https://thepixelheads.github.io/" />
-  <meta property="og:url" content="https://thepixelheads.github.io/" />
-  <meta property="og:site_name" content="thepixelheads.github.io" />
-  <meta name="twitter:card" content="summary" />
-  <meta property="twitter:title" content="PixelHeads" />
-  <script type="application/ld+json">
-{"url":"https://thepixelheads.github.io/","@type":"WebSite","headline":"PixelHeads","name":"thepixelheads.github.io","@context":"https://schema.org"}</script>
-  <!-- End Jekyll SEO tag -->
 
+  <title>PixelHeads | Christmas Theme</title>
 
+  <style>
+    body {
+      background-color: black;
+      color: white;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      position: relative;
+    }
+
+    #container {
+      width: 90%;
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    header {
+      text-align: center;
+      padding: 20px;
+    }
+
+    header h1 {
+      margin-bottom: 10px;
+    }
+
+    header img {
+      max-width: 150px;
+      height: auto;
+      border-radius: 50%;
+    }
+
+    h2, h3 {
+      text-align: center;
+    }
+
+    .css-button {
+      background-color: #00BFFF;
+      color: black;
+      padding: 10px 20px;
+      margin: 5px;
+      border: none;
+      border-radius: 5px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .css-button:hover {
+      background-color: #1E90FF;
+    }
+
+    /* LED Christmas Light Border */
+    body:before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      border: 10px solid transparent;
+      padding: 20px;
+      border-image: url('https://example.com/led-christmas-lights.png') 30 round; /* replace with actual Christmas LED light image */
+      z-index: -1;
+    }
+
+    /* Animation for glowing LED lights */
+    @keyframes glow {
+      0% {
+        box-shadow: 0 0 5px #FF0000, 0 0 10px #FF0000, 0 0 15px #FF0000;
+      }
+      50% {
+        box-shadow: 0 0 20px #00FF00, 0 0 30px #00FF00, 0 0 40px #00FF00;
+      }
+      100% {
+        box-shadow: 0 0 5px #FF0000, 0 0 10px #FF0000, 0 0 15px #FF0000;
+      }
+    }
+
+    /* Glow effect for header */
+    header {
+      animation: glow 2s infinite alternate;
+    }
+
+    /* Adjust layout for images inside the table */
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 20px 0;
+    }
+
+    table td {
+      padding: 10px;
+      text-align: center;
+    }
+
+    table td img {
+      width: 250px;
+      height: 250px;
+      object-fit: cover;
+      border-radius: 10px;
+    }
+
+    table td a {
+      color: #00BFFF;
+      font-weight: bold;
+      text-decoration: none;
+    }
+
+    table td a:hover {
+      text-decoration: underline;
+    }
+
+    /* Responsive adjustments */
+    @media (max-width: 768px) {
+      table td img {
+        width: 100%;
+        height: auto;
+      }
+    }
+  </style>
 </head>
 
 <body>
@@ -34,23 +140,19 @@
       </header>
 
       <section id="main_content">
-
-  <h2 id="PixelHeads">Welcome to the Pixelheads Space for sharing!</h2>
-
-  <br>
+        <h2>Welcome to the Pixelheads Space for sharing!</h2>
         <h3>
           <a href="/" class="css-button">Home</a>
           <a href="3d_prints.html" class="css-button">3D Print Collection</a>
           <a href="shows.html" class="css-button">Pixelhead Shows</a>
           <a href="started.html" class="css-button">Getting Started</a>
-        </h3>  
+        </h3>
 
-<h3>The Pixelheads are a collection of DrZz Discord staff who are hear to help with all things LED Realated.  These are links to things we think might help you along your way.</h3>
+        <h3>The Pixelheads are a collection of DrZz Discord staff who are here to help with all things LED related. These are links to things we think might help you along your way.</h3>
+      </section>
 
-
-
-  
-
+    </div>
+  </div>
 </body>
 
 </html>
